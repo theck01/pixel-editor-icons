@@ -59,9 +59,6 @@
 .icon-paintbrush-icon:before {
   content: "\e006";
 }
-.icon-open-icon:before {
-  content: "\e007";
-}
 .icon-login-icon:before {
   content: "\e008";
 }
@@ -85,4 +82,7 @@
 }
 .icon-logout-icon:before {
   content: "\e00e";
+}
+.icon-open-icon:before {
+  content: "\e007";
 }
