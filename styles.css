@@ -80,9 +80,9 @@
 .icon-zoom-in-icon:before {
   content: "\e00d";
 }
-.icon-logout-icon:before {
-  content: "\e00e";
-}
 .icon-settings-icon:before {
   content: "\e00f";
+}
+.icon-logout-icon:before {
+  content: "\e00e";
 }
