@@ -38,51 +38,51 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-active-color-icon:before {
+.icon-active-color:before {
   content: "\e000";
 }
-.icon-undo-icon:before {
+.icon-undo:before {
   content: "\e001";
 }
-.icon-trash-icon:before {
+.icon-trash:before {
   content: "\e002";
 }
-.icon-save-icon:before {
+.icon-save:before {
   content: "\e003";
 }
-.icon-redo-icon:before {
+.icon-redo:before {
   content: "\e004";
 }
-.icon-paintbucket-icon:before {
+.icon-paint-bucket:before {
   content: "\e005";
 }
-.icon-paintbrush-icon:before {
+.icon-paint-brush:before {
   content: "\e006";
 }
-.icon-login-icon:before {
+.icon-login:before {
   content: "\e008";
 }
-.icon-eraser-icon:before {
+.icon-eraser:before {
   content: "\e009";
 }
-.icon-dropper-icon:before {
+.icon-dropper:before {
   content: "\e00a";
 }
-.icon-default-color-icon:before {
+.icon-default-color:before {
   content: "\e00b";
 }
-.icon-zoom-out-icon:before {
+.icon-zoom-out:before {
   content: "\e00c";
 }
-.icon-zoom-in-icon:before {
+.icon-zoom-in:before {
   content: "\e00d";
 }
-.icon-settings-icon:before {
+.icon-settings:before {
   content: "\e00f";
 }
-.icon-logout-icon:before {
+.icon-logout:before {
   content: "\e00e";
 }
-.icon-open-icon:before {
+.icon-open:before {
   content: "\e007";
 }
