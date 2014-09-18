@@ -41,23 +41,14 @@
 .icon-active-color:before {
   content: "\e000";
 }
-.icon-undo:before {
-  content: "\e001";
-}
 .icon-trash:before {
   content: "\e002";
 }
 .icon-save:before {
   content: "\e003";
 }
-.icon-redo:before {
-  content: "\e004";
-}
 .icon-paint-bucket:before {
   content: "\e005";
-}
-.icon-paint-brush:before {
-  content: "\e006";
 }
 .icon-login:before {
   content: "\e008";
@@ -71,9 +62,6 @@
 .icon-default-color:before {
   content: "\e00b";
 }
-.icon-zoom-out:before {
-  content: "\e00c";
-}
 .icon-zoom-in:before {
   content: "\e00d";
 }
@@ -85,4 +73,19 @@
 }
 .icon-open:before {
   content: "\e007";
+}
+.icon-dragger:before {
+  content: "\e001";
+}
+.icon-undo:before {
+  content: "\e004";
+}
+.icon-zoom-out:before {
+  content: "\e006";
+}
+.icon-paintbrush:before {
+  content: "\e00c";
+}
+.icon-redo:before {
+  content: "\e010";
 }
