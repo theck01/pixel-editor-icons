@@ -74,9 +74,6 @@
 .icon-open:before {
   content: "\e007";
 }
-.icon-dragger:before {
-  content: "\e001";
-}
 .icon-undo:before {
   content: "\e004";
 }
@@ -88,4 +85,7 @@
 }
 .icon-redo:before {
   content: "\e010";
+}
+.icon-dragger:before {
+  content: "\e001";
 }
